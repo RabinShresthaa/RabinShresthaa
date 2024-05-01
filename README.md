@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer form Nepal</h3>
 <hr>
 
-<img  align="left" src="https://github.com/RabinShresthaa/RabinShresthaa/assets/168339395/8041fe2e-8663-4ae1-99e1-c3d00a5ab3b8" height="250" width="245">
+<img  align="left" src="https://media2.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952iqwvojbkop1u8qfc2s0s8rqat9u67azyqcmi7wi9&ep=v1_gifs_search&rid=200w.gif&ct=g" height="250" width="300">
 
-<img src="https://github.com/RabinShresthaa/RabinShresthaa/assets/168339395/9a74d038-0264-4401-a8ca-50ee68b27000" alt="coding" height="250" width="350">
+<img  src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" alt="coding" height="250" width="400">
 
 
 
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **IT,WEB-TECH**
 
-- ⚡ Fun fact **Maths is my favorite Subject.**
+- ⚡ Fun fact **Maths is my favorite Subject🤣.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
