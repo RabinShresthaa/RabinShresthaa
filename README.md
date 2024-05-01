@@ -1,8 +1,10 @@
+<div><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400"></div>
+
 <h1 align="center">Hi 👋, I'm Rabin Shrestha</h1>
 <h3 align="center">A passionate frontend developer form Nepal</h3>
 <hr>
 
-<img  width="400" align="left" src="https://github.com/RabinShresthaa/RabinShresthaa/assets/168339395/8041fe2e-8663-4ae1-99e1-c3d00a5ab3b8" height="250" width="245">
+<img  align="left" src="https://github.com/RabinShresthaa/RabinShresthaa/assets/168339395/8041fe2e-8663-4ae1-99e1-c3d00a5ab3b8" height="250" width="245">
 
 <img src="https://github.com/RabinShresthaa/RabinShresthaa/assets/168339395/9a74d038-0264-4401-a8ca-50ee68b27000" alt="coding" height="250" width="350">
 
