@@ -1,5 +1,15 @@
 <style>
-  
+  .subject{
+    transition-duration:0.7s;
+    
+  }
+  #div{
+  background-color:green;
+    color:white;
+    border-style:solid;
+    border-color:white;
+    border-width:3px;
+  }
 </style>
 
 <div><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400"></div>
@@ -60,9 +70,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="box"> Courses i learned till now !!
+<div id="box"><h1> Courses i learned till now !! </h1>
   <ul>
-    <li class="subject">DSA</li>
-    <
+    <li class="subject">DSA(Data Structure and Algorithm)</li>
+    <li class="subject">SAD(System Analysis and Design)</li>
+    <li class="subject">oops in java</li>
+    <li class="subject">C Programming</li>
+    <li class="subject">Web Technology</li>
   </ul>
 </div>
