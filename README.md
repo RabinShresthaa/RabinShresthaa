@@ -1,3 +1,7 @@
+<style>
+  
+</style>
+
 <div><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400"></div>
 
 <h1 align="center">Hi 👋, I'm Rabin Shrestha</h1>
@@ -23,6 +27,7 @@
 - ⚡ Fun fact **Maths is my favorite Subject🤣.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/rabinshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabinshrestha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rabin shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabin shrestha" height="30" width="40" /></a>
@@ -55,3 +60,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="box"> Courses i learned till now !!
+  <ul>
+    <li class="subject">DSA</li>
+    <
+  </ul>
+</div>
