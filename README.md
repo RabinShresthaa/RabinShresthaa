@@ -3,6 +3,14 @@
     transition-duration:0.7s;
     
   }
+  .subject:hover{
+background-color:aqua;
+    color:white;
+    transform:translateX(30px);
+    cursor:pointer;
+    
+
+  }
   #div{
   background-color:green;
     color:white;
