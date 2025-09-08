@@ -78,12 +78,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="box"><h1> Courses i learned till now !! </h1>
-  <ul>
-    <li class="subject">DSA(Data Structure and Algorithm)</li>
-    <li class="subject">SAD(System Analysis and Design)</li>
-    <li class="subject">oops in java</li>
-    <li class="subject">C Programming</li>
-    <li class="subject">Web Technology</li>
-  </ul>
-</div>
+
