@@ -23,7 +23,7 @@ background-color:aqua;
 <div><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400"></div>
 
 <h1 align="center">Hi 👋, I'm Rabin Shrestha</h1>
-<h3 align="center">A passionate frontend developer form Nepal</h3>
+
 <hr>
 
 <img  align="left" src="https://media2.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952iqwvojbkop1u8qfc2s0s8rqat9u67azyqcmi7wi9&ep=v1_gifs_search&rid=200w.gif&ct=g" height="250" width="300">
